@@ -1,3 +1,20 @@
 {
-  "message" : "thai"
+    "latitude": 61.385, 
+    "state": "Alaska", 
+    "longitude": -152.2683
+  }, 
+  {
+    "latitude": 32.799, 
+    "state": "Alabama", 
+    "longitude": -86.8073
+  }, 
+  {
+    "latitude": 34.9513, 
+    "state": "Arkansas", 
+    "longitude": -92.3809
+  }, 
+  {
+    "latitude": 33.7712, 
+    "state": "Arizona", 
+    "longitude": -111.3877
   }

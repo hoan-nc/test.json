@@ -1,4 +1,5 @@
-{
+[
+    {
     "latitude": 61.385, 
     "state": "Alaska", 
     "longitude": -152.2683
@@ -18,3 +19,4 @@
     "state": "Arizona", 
     "longitude": -111.3877
   }
+]
